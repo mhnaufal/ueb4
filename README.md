@@ -10,8 +10,9 @@ Developed using Unreal Engine 4.7
 4. 
 
 ## Topics I Not Yet Covered
-1. Material & Texture
-2. 
+1. Material, Texture, & Lightning
+2. Blueprint Animation
+3. 
 
 ## Thanks To
 1. https://www.youtube.com/@livinfreestyle6727
