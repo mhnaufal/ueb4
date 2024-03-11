@@ -14,6 +14,10 @@ Developed using Unreal Engine 4.7
 2. Blueprint Animation
 3. 
 
+## ToDo Topics
+1. Unreal Networking 
+2. Create a simple game in Unreal
+
 ## Thanks To
 1. https://www.youtube.com/@livinfreestyle6727
 2. https://www.youtube.com/@SmartPoly/playlists
