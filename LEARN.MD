@@ -19,4 +19,11 @@
    only exists on game server.
 7. **Game State:** state of the current game. Unlike Game Mode, we can have
    multiple Game State inside the game.
+8. Unreal Multiplayer Networking: https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/Overview/
+    - Game happens in the server side. Each game state happen on the client
+      side, then the server **replicate** the game states on each client and
+      share them to the other clients.
+    - Multiplayer can happens locally or across system (through network
+      connection).
+    - 
 
