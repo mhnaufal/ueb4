@@ -25,5 +25,7 @@
       share them to the other clients.
     - Multiplayer can happens locally or across system (through network
       connection).
-    - 
+    - **Replication:** each objects and actions in Unreal got "replicated" for
+      each of the clients and server.
 
+https://www.youtube.com/watch?v=JOJP0CvpB8w
